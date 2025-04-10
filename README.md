@@ -53,6 +53,8 @@ url = {https://www.juls.savba.sk/attachments/workshop_20210930_en/workshop_20210
 
 ### Licensing
 
-This work is provided under the license CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives 4.0 International).
-The license can be viewed online here: https://creativecommons.org/licenses/by-nc-nd/4.0/ 
-and the full text here: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode . 
+Initially, the LegalNERo dataset was made available under the license CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives 4.0 International). The Zenodo version remains under that license.
+
+This UNER version of the work is provided under the license CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International).
+The license can be viewed online here: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-sa/4.0/deed.en) 
+and the full text here: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) . 
